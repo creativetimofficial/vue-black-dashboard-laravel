@@ -6,7 +6,7 @@
 
 *Vue version*: Vue Black Dashboard v1.1.1. More info at https://www.creative-tim.com/product/vue-black-dashboard
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/vue-black-dashboard-laravel/vue-black-dashboard-larave..gif?raw=true)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/402/original/opt_bd_vuelaravel_thumbnail.jpg)
 
 What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Vue Black Dashboard Laravel. 
 
